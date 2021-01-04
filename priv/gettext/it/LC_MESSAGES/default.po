@@ -178,7 +178,7 @@ msgstr "Copyright"
 #: lib/listudy_web/templates/layout/_footer.html.eex:15
 #: lib/listudy_web/templates/layout/_header.html.eex:27
 msgid "Blind Tactics"
-msgstr "Tattiche alla Cieca"
+msgstr "Tattiche Bendato"
 
 #, elixir-format
 #: lib/listudy_web/templates/layout/_footer.html.eex:17
@@ -247,7 +247,7 @@ msgstr "Indietro"
 #, elixir-format
 #: lib/listudy_web/templates/pow/registration/new.html.eex:40
 msgid "Before creating your account, please read the %{privacy_policy} and %{tos}. By creating the account, you agree to those terms."
-msgstr "Prima di creare il tuo account, perfavore leggi %{privacy_policy} e %{tos}.Creando questo account, acconsenti ai termini."
+msgstr "Prima di creare il tuo account, perfavore leggi %{privacy_policy} e %{tos}. Creando questo account, acconsenti ai termini."
 
 #, elixir-format
 #: lib/listudy_web/templates/layout/_header.html.eex:72

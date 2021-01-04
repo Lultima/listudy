@@ -14,17 +14,17 @@ msgstr ""
 #, elixir-format
 #: tactics.html.eex:45
 msgid "As soon as you have solved the tactic, the final position is displayed. Did you have the same position in your head?"
-msgstr ""
+msgstr "Quando hai risolto la tattica, la posizione finale viene mostrata. Hai memorizzato la posizione ?"
 
 #, elixir-format
 #: tactics.html.eex:19
 msgid "Frozen Board"
-msgstr ""
+msgstr "Scacchiera Freezata"
 
 #, elixir-format
 #: tactics.html.eex:21
 msgid "If you click on the position where a piece is positioned you will be shown the possible legal moves. If you then click again on the correct square, the move will be executed and the exercise will continue."
-msgstr ""
+msgstr "Se clicchi su un pezzo verranno mostrate le possibili mosse legali. Se successivamente clicchi in una casella corretta, il pezzo si muoverà e l' esercizio andrà avanti."
 
 #, elixir-format
 #: tactics.html.eex:36
